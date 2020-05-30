@@ -1,2 +1,2 @@
 # ML-Coding-using-Python
-Coding ML algorith using Python.
+Coding ML algorithm using Python.
